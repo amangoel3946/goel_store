@@ -1,12 +1,12 @@
-#This is an e-cart website made using React-js
-#Author : Aman Goel
+<h1> This is an e-cart website made using React-js </h1><br>
+<h2>Author : Aman Goel</h2>
 
  
  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Available Scripts
 
 In the project directory, you can run:
 

@@ -1,5 +1,5 @@
 <h1> This is an e-cart website made using React-js </h1><br>
-<h2>Link</h2> :<a href="https://goel-store.netlify.app/"><h3>goel-store</h3></a>
+Link : [goel-store](https://goel-store.netlify.app/)
 <h2>Author : Aman Goel</h2>
 
  
